@@ -1,0 +1,11 @@
+# Robots.txt — Sothysalud IPS
+# https://www.sothysaludips.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.sothysaludips.com/sitemap.xml
+
+# Bloquear rutas innecesarias (si aplica en el futuro)
+# Disallow: /admin/
