@@ -6,42 +6,66 @@
 
   <!-- Página principal -->
   <url>
-    <loc>https://www.sothysaludips.com/</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://sothysaludips.com/</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Sección servicios -->
+  <!-- Blog - índice -->
   <url>
-    <loc>https://www.sothysaludips.com/#servicios</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://sothysaludips.com/blog/</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Artículo: Curso virtual manipulación alimentos 2026 -->
+  <url>
+    <loc>https://sothysaludips.com/blog/curso-virtual-manipulacion-alimentos-2026.html</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Sección nosotros -->
+  <!-- Artículo: Curso manipulación alimentos Bogotá -->
   <url>
-    <loc>https://www.sothysaludips.com/#quienes</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://sothysaludips.com/blog/curso-manipulacion-alimentos-bogota.html</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artículo: Certificado manipulación alimentos empresas -->
+  <url>
+    <loc>https://sothysaludips.com/blog/certificado-manipulacion-alimentos-empresas.html</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Artículo: Capacitación higiene Galerías Bogotá -->
+  <url>
+    <loc>https://sothysaludips.com/blog/capacitacion-higiene-galerias-bogota.html</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección servicios -->
+  <url>
+    <loc>https://sothysaludips.com/#servicios</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Sección contacto -->
   <url>
-    <loc>https://www.sothysaludips.com/#contacto</loc>
-    <lastmod>2026-06-05</lastmod>
+    <loc>https://sothysaludips.com/#contacto</loc>
+    <lastmod>2026-06-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Sección agendar cita -->
-  <url>
-    <loc>https://www.sothysaludips.com/#agendar</loc>
-    <lastmod>2026-06-05</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
