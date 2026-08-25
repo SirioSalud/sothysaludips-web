@@ -7,7 +7,7 @@
   <!-- Página principal -->
   <url>
     <loc>https://sothysaludips.com/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,9 +15,25 @@
   <!-- Blog - índice -->
   <url>
     <loc>https://sothysaludips.com/blog/</loc>
-    <lastmod>2026-06-16</lastmod>
+    <lastmod>2026-08-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
+  </url>
+
+  <!-- Artículo: Portal Empresas y gestión SST (novedad) -->
+  <url>
+    <loc>https://sothysaludips.com/blog/portal-empresas-gestion-sst-bogota.html</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Sección novedades -->
+  <url>
+    <loc>https://sothysaludips.com/#novedades</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <!-- Artículo: Curso virtual manipulación alimentos 2026 -->
