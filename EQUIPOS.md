@@ -13,6 +13,7 @@ se hizo cada cambio: cada equipo firma sus commits con su nombre, por ejemplo
 |---|---|---|---|
 | Equipo Consultorio 1 Sothysalud | DESKTOP-39PDHO4 | ASUS ExpertCenter P440VA · Windows | 2026-11-11 |
 | Equipo Recepción Sothysalud | DESKTOP-T8LQ5PV | ASUS ExpertCenter P440VA · Recepción · Windows 11 Pro | 2026-11-12 |
+| Computador WORKHOME OFFICE | DESKTOP-O4KOPJE | ASUS ExpertCenter P440VA · Windows 11 Pro | 2026-11-15 |
 
 ## Cómo agregar un equipo
 
